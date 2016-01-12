@@ -1,4 +1,8 @@
-logs
 project/project
 project/target
+project/.boot/
+project/.ivy/
 target
+logs
+
+
